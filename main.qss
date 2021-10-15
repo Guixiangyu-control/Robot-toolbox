@@ -1,0 +1,22 @@
+﻿#labelThird{
+   background-image:url("C:/Users/guixiangyu/Desktop/QT_CODE/robotProject/cartesianSpaceEnglish.jpg");
+}
+
+#labelFirst{
+   background-image:url("C:/Users/guixiangyu/Desktop/QT_CODE/robotProject/visualEnglish.jpg");
+}
+
+#labelSecond{
+   background-image:url("C:/Users/guixiangyu/Desktop/QT_CODE/robotProject/inverseKinematicsEnglish.jpg")
+}
+
+#labelFourth{
+   background-image:url("C:/Users/guixiangyu/Desktop/QT_CODE/robotProject/prompt.png")
+}
+
+#labelFifth{
+   background-image:url("C:/Users/guixiangyu/Desktop/QT_CODE/robotProject/setting-filling.png")
+}
+
+
+
